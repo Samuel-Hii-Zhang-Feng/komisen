@@ -1,5 +1,5 @@
 #Atur Cara Mengira Komisen
-#Pengisytiharan 
+#Pengisytiharan pemboleh ubah
 jumlah = 0
 jualan = 0
 komisen = 0
